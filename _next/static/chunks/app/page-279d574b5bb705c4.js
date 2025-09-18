@@ -352,7 +352,7 @@
                             }), (0, s.jsx)(u.default, {
                                 animate: !0,
                                 direction: "left",
-                                href: "https://x.com",
+                                href: "https://x.com/blockdag_erc20",
                                 target: "_blank",
                                 children: "Follow Us for Real-Time Listings"
                             })]
