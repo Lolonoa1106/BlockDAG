@@ -27,7 +27,7 @@
         {
           title: "telegram",
           img: "/images/connect/telegram.svg",
-          slug: "https://t.me/Official",
+          slug: "https://t.me",
           width: 32,
           height: 32,
         },

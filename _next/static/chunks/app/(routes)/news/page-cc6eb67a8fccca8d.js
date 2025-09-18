@@ -201,15 +201,15 @@
                       }),
                     ],
                   }),
-                  (0, n.jsx)(d.default, {
-                    className: r().button,
-                    color: "primary",
-                    disabled: !g || (null == g ? void 0 : g.length) <= i,
-                    onClick: () => {
-                      h((e) => e + 3);
-                    },
-                    children: "Show More",
-                  }),
+                  // (0, n.jsx)(d.default, {
+                  //   className: r().button,
+                  //   color: "primary",
+                  //   disabled: !g || (null == g ? void 0 : g.length) <= i,
+                  //   onClick: () => {
+                  //     h((e) => e + 3);
+                  //   },
+                  //   children: "Show More",
+                  // }),
                 ],
               }),
             ],

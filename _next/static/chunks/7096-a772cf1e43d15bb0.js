@@ -79,15 +79,17 @@
                             dev: e,
                             index: s
                         }, s))
-                    }), (0, i.jsx)(f.default, {
-                        className: n().button,
-                        color: s ? "dark" : "transparent-dark",
-                        disabled: !t || (null == t ? void 0 : t.length) <= l,
-                        onClick: () => {
-                            r(e => e + 3)
-                        },
-                        children: "Show More"
-                    })]
+                    }), 
+                    // (0, i.jsx)(f.default, {
+                    //     className: n().button,
+                    //     color: s ? "dark" : "transparent-dark",
+                    //     disabled: !t || (null == t ? void 0 : t.length) <= l,
+                    //     onClick: () => {
+                    //         r(e => e + 3)
+                    //     },
+                    //     children: "Show More"
+                    // })
+                ]
                 })
             }
         },

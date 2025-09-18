@@ -167,7 +167,7 @@
                                      {
                                         title: "Telegram",
                                         img: "/icons/socials/telegram.svg",
-                                        slug: "https://t.me/Official"
+                                        slug: "https://t.me"
                                     },
                                     //  {
                                     //     title: "Youtube",
@@ -378,7 +378,6 @@
                                 title: "Hackathons",
                                 slug: "/hackathons",
                                 target: void 0,
-                                new: !0
                             },
                             // {
                             //     title: "Academy",
@@ -390,12 +389,10 @@
                             [{
                                 title: "Ambassador Program",
                                 slug: "/ambassador-program",
-                                new: !0,
                                 target: void 0
                             }, {
                                 title: "Grants Program",
                                 slug: "/grants-program",
-                                new: !0
                             }]
                         ]
                     }
@@ -436,7 +433,6 @@
                                 title: "Security",
                                 slug: "/security",
                                 target: void 0,
-                                new: !0
                             }, {
                                 title: "Calculator",
                                 slug: "/crypto-mining-calculator"
@@ -476,7 +472,6 @@
                             }, {
                                 title: "Key Stats",
                                 slug: "/key-stats",
-                                new: !0
                             }],
                             [{
                                 title: "Testimonials",
@@ -495,7 +490,6 @@
                             }, {
                                 title: "Podcast",
                                 slug: "/podcast",
-                                new: !0
                             }]
                         ]
                     }

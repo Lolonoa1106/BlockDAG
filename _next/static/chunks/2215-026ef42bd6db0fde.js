@@ -39,7 +39,7 @@
                             })
                         }), e.map((t, e) => (0, i.jsx)("li", {
                             children: (0, i.jsx)(r.default, {
-                                href: "",
+                                href: "#",
                                 className: l.replace("/blog/category/", "") === t.attributes.slug ? n().active : "",
                                 children: t.attributes.title
                             })
