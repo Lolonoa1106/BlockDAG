@@ -157,7 +157,7 @@
                                      {
                                         title: "X",
                                         img: "/icons/socials/x.svg",
-                                        slug: "https://x.com/blockdag_erc20"
+                                        slug: "https://x.com/bdageth"
                                     },
                                     //  {
                                     //     title: "Facebook",
@@ -167,7 +167,7 @@
                                      {
                                         title: "Telegram",
                                         img: "/icons/socials/telegram.svg",
-                                        slug: "https://t.me/blockdag_erc20"
+                                        slug: "https://t.me/bdageth"
                                     },
                                     //  {
                                     //     title: "Youtube",

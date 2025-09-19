@@ -27,14 +27,14 @@
         {
           title: "telegram",
           img: "/images/connect/telegram.svg",
-          slug: "https://t.me/blockdag_erc20",
+          slug: "https://t.me/bdageth",
           width: 32,
           height: 32,
         },
         {
           title: "x",
           img: "/images/connect/x.svg",
-          slug: "https://x.com/blockdag_erc20/blockdag_erc20",
+          slug: "https://x.com/bdageth",
           width: 33,
           height: 30,
         },

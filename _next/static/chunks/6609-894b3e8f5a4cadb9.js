@@ -56,7 +56,7 @@
             let o = "https://app.uniswap.org/",
                 i = "/how-to-buy",
                 // a = "https://apps.apple.com",
-                c = "https://apk.blockdagnetwork.io",
+                c = "#",
                 s = "https://api.bdagapiserver.com/api/v2/barong/public/users/metrics",
                 u = "pk.eyJ1IjoiYmxvY2tkYWduZXR3b3JrIiwiYSI6ImNtN3Z4YjFpMjAxYjEycXNuOW54ZGMwN3MifQ.QNDH25sl5Hwt_OCo1wwT6A",
                 d = "https://primordial.bdagscan.com/",
