@@ -606,7 +606,30 @@
                             }]
                         ]
                     }
-                }];
+                },
+                // {
+                //     title: "View Chart",
+                //     slug: "/chart",
+                //     megamenu: {
+                //         title: "View Chart",
+                //         desc: (0, l.jsx)(l.Fragment, {
+                //             children: "We've launched the $BDAG cryptocurrency. See how the $BDAG price fluctuates here."
+                //         }),
+                //         list: [
+                //             [{
+                //                 title: "Dextools",
+                //                 slug: "https://dextools.io",
+                //                 target:"_blank"
+                //                 // new: !0
+                //             }, {
+                //                 title: "Dexscreener",
+                //                  slug: "https://dexscreener.com",
+                //                 target:"_blank"
+                //             }],
+                //         ]
+                //     }
+                // }
+            ];
                 return "/landing" !== y && (0, l.jsxs)(l.Fragment, {
                     children: [(0, l.jsx)("div", {
                         className: (0, o.Z)(r().banner, j && -1 == L && ("/" == y || "/map" == y) && r().heroActive),
@@ -626,7 +649,8 @@
                                 })
                             })
                         })
-                    }), (0, l.jsxs)("header", {
+                    }),
+                     (0, l.jsxs)("header", {
                         className: (0, o.Z)(r().header, L > -1 && r().activeMega, b && r().active, (Z > 100 || "/map" == y) && r().scrolled, j && -1 == L && ("/" == y || "/map" == y) && r().heroActive),
                         children: [(0, l.jsxs)(n.Z, {
                             className: r().container,
