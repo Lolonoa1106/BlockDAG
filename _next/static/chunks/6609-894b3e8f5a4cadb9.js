@@ -53,7 +53,7 @@
                 }
             });
             var n = r(20357);
-            let o = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x0xf9234e901ef8aa7fc35c27053a8c3cc2a419e5f2",
+            let o = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xf9234e901ef8aa7fc35c27053a8c3cc2a419e5f2",
                 i = "/how-to-buy",
                 // a = "https://apps.apple.com",
                 c = "#",
