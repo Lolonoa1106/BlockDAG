@@ -76,7 +76,7 @@
                         })]
                     }),
                     desc: (0, n.jsxs)(n.Fragment, {
-                        children: ["The Pillar of BlockDAG: We've reserved a major portion for our community because we believe in its power. This allocation represents our commitment to everyone who uses, promotes, and envisions the network's potential.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Miners (75 billion coins or 50% of Community Coins): Rewards for those crucial to our network's operation.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Community Building & Ecosystem (19 billion coins or 12.7% of Community Coins): Investments in strengthening and enriching the BlockDAG community.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Liquidity Pool (4.5 billion coins or 3% of Community Coins): To ensure smooth and stable trading experiences.", " "]
+                        children: ["The Pillar of BlockDAG: We've reserved a major portion for our community because we believe in its power. This allocation represents our commitment to everyone who uses, promotes, and envisions the network's potential.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Miners (75 billion coins or 50% of Community Coins): Rewards for those crucial to our network's operation.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Community Building & Ecosystem (19 billion coins or 12.7% of Community Coins): Investments in strengthening and enriching the BlockDAG community.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Liquidity Pool (1 Billion coins or 3% of Community Coins): To ensure smooth and stable trading experiences.", " "]
                     })
                 }, {
                     icon: "/icons/rocket.svg",

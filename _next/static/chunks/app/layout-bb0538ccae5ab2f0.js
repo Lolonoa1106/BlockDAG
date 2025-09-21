@@ -90,7 +90,7 @@
                             slug: "/support"
                         }, {
                             title: "Referral Program",
-                            slug: "/referral-program"
+                            slug: "#"
                         }]
                     ]
                 },
@@ -152,7 +152,7 @@
                                     //     {
                                     //     title: "Medium",
                                     //     img: "/icons/socials/medium.svg",
-                                    //     slug: "https://medium.com/@BlockDAGNetwork1"
+                                    //     slug: "https://t.me/b_dag_eth"
                                     // },
                                      {
                                         title: "X",
@@ -172,22 +172,22 @@
                                     //  {
                                     //     title: "Youtube",
                                     //     img: "/icons/socials/youtube.svg",
-                                    //     slug: "https://www.youtube.com/@BlockDAGofficial"
+                                    //     slug: "https://x.com/b_dag_eth"
                                     // },
                                     //  {
                                     //     title: "Instagram",
                                     //     img: "/icons/socials/instagram.svg",
-                                    //     slug: "https://www.instagram.com/blockdagnetwork/"
+                                    //     slug: "https://t.me/b_dag_eth/"
                                     // },
                                     //  {
                                     //     title: "Discord",
                                     //     img: "/icons/socials/discord.svg",
-                                    //     slug: "https://discord.gg/Q7BxghMVyu"
+                                    //     slug: "https://x.com/b_dag_eth"
                                     // },
                                     //  {
                                     //     title: "LinkedIn",
                                     //     img: "/icons/socials/linkedin.svg",
-                                    //     slug: "https://www.linkedin.com/company/blockdag-network/"
+                                    //     slug: "https://t.me/b_dag_eth/"
                                     // }
                                 ].map(e => (0, l.jsx)("div", {
                                         children: (0, l.jsx)(a.default, {
@@ -594,14 +594,14 @@
                                 slug: "#",
                                 new: !0
 
-                                // slug: "https://docs.blockdagnetwork.io/getting-started/nodes-and-mining/testnet-node-setup",
+                                // slug: "#",
                                 // target: "_blank"
                             }, {
                                 title: "Browse the Documentation",
                                 slug: "#",
                                 new: !0
 
-                                // slug: "https://docs.blockdagnetwork.io/",
+                                // slug: "#/",
                                 // target: "_blank"
                             }]
                         ]

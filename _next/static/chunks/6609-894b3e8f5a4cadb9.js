@@ -53,7 +53,7 @@
                 }
             });
             var n = r(20357);
-            let o = "https://app.uniswap.org/",
+            let o = "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xTBA",
                 i = "/how-to-buy",
                 // a = "https://apps.apple.com",
                 c = "#",
@@ -63,7 +63,7 @@
                 l = "https://ide.primordial.bdagscan.com/",
                 f = "https://coldwallet.com/",
                 p = "https://academy.blockdag.network/",
-                h = "https://wiki.blockdag.network/blockdag-wiki",
+                h = "#",
                 w = "https://presaleapi.blockdag.network",
                 g = "https://leadapi.blockdag.network",
                 m = "https://blockdag.network/";

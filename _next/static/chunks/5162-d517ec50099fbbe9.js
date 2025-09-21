@@ -41,42 +41,36 @@
         // {
         //   title: "discord",
         //   img: "/images/connect/discord.svg",
-        //   slug: "https://discord.gg/Q7BxghMVyu",
+        //   slug: "https://x.com/b_dag_eth",
         //   width: 142,
         //   height: 36,
         // },
         // {
         //   title: "youtube",
         //   img: "/images/connect/youtube.svg",
-        //   slug: "https://www.youtube.com/@BlockDAGofficial",
+        //   slug: "https://x.com/b_dag_eth",
         //   width: 112,
         //   height: 25,
         // },
-        // {
-        //   title: "facebook",
-        //   img: "/images/connect/facebook.svg",
-        //   slug: "https://www.facebook.com/profile.php?id=61557699651392&mibextid=LQQJ4d",
-        //   width: 119,
-        //   height: 23,
-        // },
+       
         // {
         //   title: "instagram",
         //   img: "/images/connect/instagram.svg",
-        //   slug: "https://www.instagram.com/blockdagnetwork",
+        //   slug: "https://t.me/b_dag_eth",
         //   width: 116,
         //   height: 39,
         // },
         // {
         //   title: "medium",
         //   img: "/images/connect/medium.svg",
-        //   slug: "https://medium.com/@BlockDAGNetwork1",
+        //   slug: "https://t.me/b_dag_eth",
         //   width: 162,
         //   height: 32,
         // },
         // {
         //   title: "linkedin",
         //   img: "/images/connect/linkedin.svg",
-        //   slug: "https://www.linkedin.com/company/blockdag-network",
+        //   slug: "https://t.me/b_dag_eth",
         //   width: 100,
         //   height: 25,
         // },
@@ -282,69 +276,69 @@
                     }),
                   ],
                 }),
-                (0, l.jsxs)("div", {
-                  className: n().reviews,
-                  children: [
-                    (0, l.jsxs)(c.default, {
-                      animate: !0,
-                      direction: "right",
-                      start: 60,
-                      end: 40,
-                      className: n().desc,
-                      size: "xl",
-                      children: ["Watch the reviews", " "],
-                    }),
-                    (0, l.jsx)(h.tq, {
-                      id: "updatesSwiper",
-                      className: (0, f.Z)(n().swiper),
-                      modules: [u.tl, u.s5],
-                      breakpoints: {
-                        320: { slidesPerView: 1, spaceBetween: 0 },
-                        992: { slidesPerView: 2, spaceBetween: 40 },
-                      },
-                      slidesPerView: "auto",
-                      pagination: { clickable: !0 },
-                      children: [
-                        { embedId: "79bOYopQ7LE" },
-                        { embedId: "bZ0jYulJEIU" },
-                        { embedId: "dhAxWXXun18" },
-                        { embedId: "83Was9f2V6I" },
-                      ].map((e, t) =>
-                        (0, l.jsx)(
-                          h.o5,
-                          {
-                            children: (0, l.jsx)(g.default, {
-                              direction: 0 == t ? "right" : "left",
-                              directionMobile: "left",
-                              ease: "sine.out",
-                              start: 60,
-                              end: 40,
-                              className: n().videoArea,
-                              children:
-                                v &&
-                                (0, l.jsx)("iframe", {
-                                  width: "845",
-                                  height: "480",
-                                  src: "https://www.youtube.com/embed/".concat(
-                                    e.embedId
-                                  ),
-                                  title:
-                                    "DON'T MISS OUT ON THE BLOCKDAG PRESALE!!\uD83D\uDD25 THIS ONE'S ON OUR UP NEXT RADAR TO MOON IN 2024!!",
-                                  frameBorder: "0",
-                                  allow:
-                                    "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
-                                  referrerPolicy:
-                                    "strict-origin-when-cross-origin",
-                                  allowFullScreen: !0,
-                                }),
-                            }),
-                          },
-                          t
-                        )
-                      ),
-                    }),
-                  ],
-                }),
+                // (0, l.jsxs)("div", {
+                //   className: n().reviews,
+                //   children: [
+                //     (0, l.jsxs)(c.default, {
+                //       animate: !0,
+                //       direction: "right",
+                //       start: 60,
+                //       end: 40,
+                //       className: n().desc,
+                //       size: "xl",
+                //       children: ["Watch the reviews", " "],
+                //     }),
+                //     (0, l.jsx)(h.tq, {
+                //       id: "updatesSwiper",
+                //       className: (0, f.Z)(n().swiper),
+                //       modules: [u.tl, u.s5],
+                //       breakpoints: {
+                //         320: { slidesPerView: 1, spaceBetween: 0 },
+                //         992: { slidesPerView: 2, spaceBetween: 40 },
+                //       },
+                //       slidesPerView: "auto",
+                //       pagination: { clickable: !0 },
+                //       children: [
+                //         { embedId: "79bOYopQ7LE" },
+                //         { embedId: "bZ0jYulJEIU" },
+                //         { embedId: "dhAxWXXun18" },
+                //         { embedId: "83Was9f2V6I" },
+                //       ].map((e, t) =>
+                //         (0, l.jsx)(
+                //           h.o5,
+                //           {
+                //             children: (0, l.jsx)(g.default, {
+                //               direction: 0 == t ? "right" : "left",
+                //               directionMobile: "left",
+                //               ease: "sine.out",
+                //               start: 60,
+                //               end: 40,
+                //               className: n().videoArea,
+                //               children:
+                //                 v &&
+                //                 (0, l.jsx)("iframe", {
+                //                   width: "845",
+                //                   height: "480",
+                //                   src: "https://www.youtube.com/embed/".concat(
+                //                     e.embedId
+                //                   ),
+                //                   title:
+                //                     "DON'T MISS OUT ON THE BLOCKDAG PRESALE!!\uD83D\uDD25 THIS ONE'S ON OUR UP NEXT RADAR TO MOON IN 2024!!",
+                //                   frameBorder: "0",
+                //                   allow:
+                //                     "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share",
+                //                   referrerPolicy:
+                //                     "strict-origin-when-cross-origin",
+                //                   allowFullScreen: !0,
+                //                 }),
+                //             }),
+                //           },
+                //           t
+                //         )
+                //       ),
+                //     }),
+                //   ],
+                // }),
               ],
             }),
           })
