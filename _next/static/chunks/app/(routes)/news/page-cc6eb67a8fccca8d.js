@@ -141,21 +141,7 @@
                             className: r().item,
                             children: [
                               (0, n.jsx)(u.default, {
-                                href: (
-                                  null == e
-                                    ? void 0
-                                    : null === (s = e.attributes) ||
-                                      void 0 === s
-                                    ? void 0
-                                    : s.link
-                                )
-                                  ? null == e
-                                    ? void 0
-                                    : null === (l = e.attributes) ||
-                                      void 0 === l
-                                    ? void 0
-                                    : l.link
-                                  : "#",
+                                href:"#",
                                 target: "_blank",
                                 rel: "noopener noreferrer",
                                 children: (0, n.jsx)(c.default, {
@@ -175,22 +161,8 @@
                                 children: e.attributes.date,
                               }),
                               (0, n.jsx)(_.default, {
-                                href: (
-                                  null == e
-                                    ? void 0
-                                    : null === (i = e.attributes) ||
-                                      void 0 === i
-                                    ? void 0
-                                    : i.link
-                                )
-                                  ? null == e
-                                    ? void 0
-                                    : null === (o = e.attributes) ||
-                                      void 0 === o
-                                    ? void 0
-                                    : o.link
-                                  : "#",
-                                target: "_blank",
+                                href:"#",
+                                // target: "_blank",
                                 rel: "noopener noreferrer",
                                 children: "Read More",
                               }),
