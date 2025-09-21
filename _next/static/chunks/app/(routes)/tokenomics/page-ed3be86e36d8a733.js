@@ -56,11 +56,11 @@
                         }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
                             component: "span",
                             size: "xl",
-                            children: "150,000,000,000"
+                            children: "1,000,000,000"
                         })]
                     }),
                     desc: (0, n.jsx)(n.Fragment, {
-                        children: "BlockDAG Coin (BDAG) stands out with a total supply of 150 billion coins, underscoring its rarity and commitment to maintaining value. Setting a limit on our coin supply helps us manage growth responsibly, avoid excessive inflation and create a stable environment for our community."
+                        children: "BlockDAG Coin (BDAG) stands out with a total supply of 1 billion coins, underscoring its rarity and commitment to maintaining value. Setting a limit on our coin supply helps us manage growth responsibly, avoid excessive inflation and create a stable environment for our community."
                     })
                 }, {
                     icon: "/icons/community-allocation.svg",
@@ -68,49 +68,70 @@
                         children: [(0, n.jsx)(d.default, {
                             component: "span",
                             size: "lg",
-                            children: "Community Allocation"
+                            children: "Liquidity Pool"
                         }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
                             component: "span",
                             size: "xl",
-                            children: "98,500,000,000"
+                            children: "1,000,000,000"
                         })]
                     }),
                     desc: (0, n.jsxs)(n.Fragment, {
-                        children: ["The Pillar of BlockDAG: We've reserved a major portion for our community because we believe in its power. This allocation represents our commitment to everyone who uses, promotes, and envisions the network's potential.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Miners (75 billion coins or 50% of Community Coins): Rewards for those crucial to our network's operation.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Community Building & Ecosystem (19 billion coins or 12.7% of Community Coins): Investments in strengthening and enriching the BlockDAG community.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Liquidity Pool (1 Billion coins or 3% of Community Coins): To ensure smooth and stable trading experiences.", " "]
+                        children: ["Liquidity Pool (1 Billion coins or 100% of Community Coins): To ensure smooth and stable trading experiences.", " "]
                     })
-                }, {
-                    icon: "/icons/rocket.svg",
-                    title: (0, n.jsxs)(n.Fragment, {
-                        children: [(0, n.jsx)(d.default, {
-                            component: "span",
-                            size: "lg",
-                            children: "Presale Allocation"
-                        }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
-                            component: "span",
-                            size: "xl",
-                            children: "50,000,000,000"
-                        })]
-                    }),
-                    desc: (0, n.jsxs)(n.Fragment, {
-                        children: ["Early Believers, Core Community: Before our coins are available to the wider public, our presale offers early supporters an exclusive opportunity to back our vision, often at a preferential rate.", " "]
-                    })
-                }, {
-                    icon: "/icons/deal.svg",
-                    title: (0, n.jsxs)(n.Fragment, {
-                        children: [(0, n.jsx)(d.default, {
-                            component: "span",
-                            size: "lg",
-                            children: "Team Allocation"
-                        }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
-                            component: "span",
-                            size: "xl",
-                            children: "1,500,000,000"
-                        })]
-                    }),
-                    desc: (0, n.jsxs)(n.Fragment, {
-                        children: ["A 1% allocation of the total coin supply is dedicated to our devoted team members. This allocation aligns their interests with the long-term success of BlockDAG and motivates active participation in its ongoing development and prosperity. This transparent and fair allocation underscores our unwavering commitment to the project's success.", " "]
-                    })
-                }];
+                },
+                // {
+                //     icon: "/icons/community-allocation.svg",
+                //     title: (0, n.jsxs)(n.Fragment, {
+                //         children: [(0, n.jsx)(d.default, {
+                //             component: "span",
+                //             size: "lg",
+                //             children: "Community Allocation"
+                //         }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
+                //             component: "span",
+                //             size: "xl",
+                //             children: "98,500,000,000"
+                //         })]
+                //     }),
+                //     desc: (0, n.jsxs)(n.Fragment, {
+                //         children: ["The Pillar of BlockDAG: We've reserved a major portion for our community because we believe in its power. This allocation represents our commitment to everyone who uses, promotes, and envisions the network's potential.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Miners (75 billion coins or 50% of Community Coins): Rewards for those crucial to our network's operation.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Community Building & Ecosystem (19 billion coins or 12.7% of Community Coins): Investments in strengthening and enriching the BlockDAG community.", (0, n.jsx)("br", {}), (0, n.jsx)("br", {}), "Liquidity Pool (1 Billion coins or 3% of Community Coins): To ensure smooth and stable trading experiences.", " "]
+                //     })
+                // },
+                //  {
+                //     icon: "/icons/rocket.svg",
+                //     title: (0, n.jsxs)(n.Fragment, {
+                //         children: [(0, n.jsx)(d.default, {
+                //             component: "span",
+                //             size: "lg",
+                //             children: "Presale Allocation"
+                //         }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
+                //             component: "span",
+                //             size: "xl",
+                //             children: "50,000,000,000"
+                //         })]
+                //     }),
+                //     desc: (0, n.jsxs)(n.Fragment, {
+                //         children: ["Early Believers, Core Community: Before our coins are available to the wider public, our presale offers early supporters an exclusive opportunity to back our vision, often at a preferential rate.", " "]
+                //     })
+                // },
+           
+                //  {
+                //     icon: "/icons/deal.svg",
+                //     title: (0, n.jsxs)(n.Fragment, {
+                //         children: [(0, n.jsx)(d.default, {
+                //             component: "span",
+                //             size: "lg",
+                //             children: "Team Allocation"
+                //         }), (0, n.jsx)("br", {}), (0, n.jsx)(d.default, {
+                //             component: "span",
+                //             size: "xl",
+                //             children: "0"
+                //         })]
+                //     }),
+                //     desc: (0, n.jsxs)(n.Fragment, {
+                //         children: ["A 1% allocation of the total coin supply is dedicated to our devoted team members. This allocation aligns their interests with the long-term success of BlockDAG and motivates active participation in its ongoing development and prosperity. This transparent and fair allocation underscores our unwavering commitment to the project's success.", " "]
+                //     })
+                // }
+            ];
                 return (0, n.jsx)(i.Z, {
                     className: l().tokenomicscards,
                     children: (0, n.jsxs)(r.Z, {
