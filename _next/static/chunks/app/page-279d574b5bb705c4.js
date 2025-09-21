@@ -1148,7 +1148,7 @@
                     title: (0, s.jsx)(s.Fragment, {
                         children: "External Audit 1: Halborn "
                     }),
-                    href: "https://www.halborn.com/audits/blockdag/treasury-vesting",
+                    // href: "https://www.halborn.com/audits/blockdag/treasury-vesting",
                     desc: (0, s.jsx)(s.Fragment, {
                         children: "We partnered with Halborn, a renowned security firm, to provide an independent assessment. Their review validated our internal findings and helped fortify our security measures."
                     })
@@ -1161,7 +1161,7 @@
                     title: (0, s.jsx)(s.Fragment, {
                         children: "External Audit 2: Certik "
                     }),
-                    href: "/blockdag-certik-security-audit.pdf",
+                    // href: "/blockdag-certik-security-audit.pdf",
                     desc: (0, s.jsx)(s.Fragment, {
                         children: "We are currently collaborating with Certik for an additional layer of scrutiny to further enhance our smart contract security."
                     })
