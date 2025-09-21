@@ -27,14 +27,14 @@
         {
           title: "telegram",
           img: "/images/connect/telegram.svg",
-          slug: "https://t.me/bdageth",
+          slug: "https://t.me/b_dag_eth",
           width: 32,
           height: 32,
         },
         {
           title: "x",
           img: "/images/connect/x.svg",
-          slug: "https://x.com/bdageth",
+          slug: "https://x.com/b_dag_eth",
           width: 33,
           height: 30,
         },
