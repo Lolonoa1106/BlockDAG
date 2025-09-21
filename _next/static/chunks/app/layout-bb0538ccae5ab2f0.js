@@ -169,21 +169,21 @@
                                         img: "/icons/socials/telegram.svg",
                                         slug: "https://t.me/b_dag_eth"
                                     },
-                                    //  {
-                                    //     title: "Youtube",
-                                    //     img: "/icons/socials/youtube.svg",
-                                    //     slug: "https://x.com/b_dag_eth"
-                                    // },
-                                    //  {
-                                    //     title: "Instagram",
-                                    //     img: "/icons/socials/instagram.svg",
-                                    //     slug: "https://t.me/b_dag_eth/"
-                                    // },
-                                    //  {
-                                    //     title: "Discord",
-                                    //     img: "/icons/socials/discord.svg",
-                                    //     slug: "https://x.com/b_dag_eth"
-                                    // },
+                                     {
+                                        title: "Dexscreener",
+                                        img: "/icons/socials/dexscreener.svg",
+                                        slug: "https://dexscreener.com/ethereum/0xb38031001a58008660e3e91b19bd4fad2eba2fc9"
+                                    },
+                                     {
+                                        title: "Dextools",
+                                        img: "/icons/socials/dextools.svg",
+                                        slug: "https://www.dextools.io/app/en/ether/pair-explorer/0xb38031001a58008660e3e91b19bd4fad2eba2fc9?t=1758462148549"
+                                    },
+                                     {
+                                        title: "Etherscan",
+                                        img: "/icons/socials/etherscan.svg",
+                                        slug: "https://etherscan.io/tx/0x3e6d487569ee506db39a64a1fde1eb1eff5508e89f0fe513d5b84d57303973ba"
+                                    },
                                     //  {
                                     //     title: "LinkedIn",
                                     //     img: "/icons/socials/linkedin.svg",
